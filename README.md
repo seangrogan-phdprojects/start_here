@@ -1,2 +1,2 @@
-# start_here
-An overview of this repository for Sean's PhD Projects
+# Welcome
+This organization is a collection of repositories for my (Sean Grogan's) PhD at Polytechnique Montréal.  
