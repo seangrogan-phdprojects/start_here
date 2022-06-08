@@ -4,8 +4,9 @@ This organization is a collection of repositories for my (Sean Grogan's) PhD at 
 # Research Projects
 The following sections are the projects for each of the steps in the PhD project.  
 
-## A...
+## Location of disaster assessment UAVs using historical tornado data
 
+todo
 
 ## Using tornado-related weather data to route unmanned aerial vehicles to locate damage and victims (2021)
 
