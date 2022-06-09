@@ -1,7 +1,5 @@
 # Welcome
-This organization is a collection of repositories for research projects.  
-
-The following sections are the projects for each of the steps in the PhD project.  
+This organization is a collection of repositories for research projects conducted by and with me (Sean Grogan).  
 
 # Location of disaster assessment UAVs using historical tornado data
 
