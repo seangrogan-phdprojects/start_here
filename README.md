@@ -6,7 +6,24 @@ The following sections are the projects for each of the steps in the PhD project
 
 ## Location of disaster assessment UAVs using historical tornado data
 
-todo
+### Abstract
+
+To be completed upon journal acceptance
+
+### Associated Files
+
+|Data |Location | Notes | 
+| --- | --- | --- | 
+| Oklahoma Fire Stations | [OKMaps](https://okmaps.org/OGI/search.aspx) | `Administrative Units > Oklahoma Fire Stations` | 
+| Oklahoma Roadways | [OKMaps](https://okmaps.org/OGI/search.aspx) | `Transportation >`<br> `.    ODOT_Highways` <br>`.    ODOT Roadways` <br> `.    ODOT Local Roadways` |
+| Storm Based Warnings (SBWs) and Local Storm Reports (LSRs) | [Mesonet](https://mesonet.agron.iastate.edu/) | Weather Forecast Offices: OUN, TSA, AMA, SHV |
+| Simplified tornado tracks | [NWS](https://www.spc.noaa.gov/gis/svrgis/) | |
+
+### Associated Data
+
+The Github for the optimization tool can be found here : https://github.com/seangrogan-researchprojects/ro-station-location-tool-2022
+
+The Github to test the solution can be found here : https://github.com/seangrogan-researchprojects/station-location-solution-testor-2022
 
 ## Using tornado-related weather data to route unmanned aerial vehicles to locate damage and victims (2021)
 
