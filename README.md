@@ -1,5 +1,5 @@
 # Welcome
-This organization is a collection of repositories for my (Sean Grogan's) PhD at Polytechnique Montréal.  
+This organization is a collection of repositories for research projects.  
 
 The following sections are the projects for each of the steps in the PhD project.  
 
@@ -27,8 +27,6 @@ The Github to test the solution can be found here : https://github.com/seangroga
 --------------------------
 
 # Using tornado-related weather data to route unmanned aerial vehicles to locate damage and victims (2021)
-
-This is the first research project associated with the PhD project.  
 
 ## Abstract
 
