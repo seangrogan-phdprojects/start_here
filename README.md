@@ -49,7 +49,7 @@ Github for this project can be found here : https://github.com/seangrogan-resear
 
 # I Came, I Saw, I Voted: Distance to Polling Locations and Voter Turnout in Ontario, Canada (2021)
 
-Garnett, H., & Grogan, S. (2021). I Came, I Saw, I Voted: Distance to Polling Locations and Voter Turnout in Ontario, Canada. Canadian Journal of Political Science, 54(2), 316-334. doi:10.1017/S0008423921000196
+Garnett, H., & Grogan, S. (2021). I Came, I Saw, I Voted: Distance to Polling Locations and Voter Turnout in Ontario, Canada. Canadian Journal of Political Science, 54(2), 316-334. 10.1017/S0008423921000196
 
 ## Abstract
 
